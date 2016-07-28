@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AtbashCrypt</string>
+    <string name="enter_your_text_below">Enter your text below</string>
+    <string name="the_text_you_want_to_encrypt_decrypt">The text you want to encrypt/decrypt</string>
+    <string name="encrypt_text">Encrypt</string>
+    <string name="decrypt_text">Decrypt</string>
+</resources>
