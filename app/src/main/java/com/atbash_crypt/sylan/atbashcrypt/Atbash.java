@@ -1,14 +1,12 @@
 package com.atbash_crypt.sylan.atbashcrypt;
 
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Scanner;
 
 public class Atbash {
     private static ArrayList<Character> ALPHABET;
 
     static {
-        ArrayList<Character> temp = new ArrayList<Character>();
+        ArrayList<Character> temp = new ArrayList<>();
         for (int i = 0; i < 26; i++) {
         	temp.add((char) ('A' + i));
         }
